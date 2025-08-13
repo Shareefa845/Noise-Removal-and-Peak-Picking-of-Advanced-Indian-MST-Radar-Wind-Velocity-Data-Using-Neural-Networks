@@ -24,9 +24,11 @@ The dataset is derived from MST Radar wind velocity measurements, consisting of 
 Preprocessing: Data normalization, outlier removal.
 Denoising: Custom neural network model trained to separate signal from noise.
 Peak Detection: Post-processed signal is analyzed to detect wind velocity peaks using thresholding and derivative analysis.
+
 ✅ Results
 Achieved significant noise reduction compared to traditional filters.
 Improved accuracy of peak detection by [insert accuracy % if known].
 Visual plots confirming the effectiveness of the approach.
 <img width="1418" height="830" alt="image" src="https://github.com/user-attachments/assets/83e9d54b-df93-4359-92cc-5ba8f2eccb89" />
+
 
