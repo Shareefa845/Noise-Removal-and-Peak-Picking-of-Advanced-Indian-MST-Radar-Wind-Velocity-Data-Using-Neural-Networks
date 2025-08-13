@@ -1,3 +1,5 @@
+<img width="1164" height="709" alt="image" src="https://github.com/user-attachments/assets/17da2824-4134-49c1-bb3f-b25056b57cf0" />
+
 # Noise Removal and Peak Picking of MST Radar Wind Velocity Data Using Neural Networks**
 
 This project focuses on processing and analyzing wind velocity data from the Advanced Indian MST (Mesosphere-Stratosphere-Troposphere) Radar using deep learning techniques. The main goals are:
@@ -26,4 +28,5 @@ Peak Detection: Post-processed signal is analyzed to detect wind velocity peaks 
 Achieved significant noise reduction compared to traditional filters.
 Improved accuracy of peak detection by [insert accuracy % if known].
 Visual plots confirming the effectiveness of the approach.
-image<img width="1418" height="830" alt="image" src="https://github.com/user-attachments/assets/83e9d54b-df93-4359-92cc-5ba8f2eccb89" />
+<img width="1418" height="830" alt="image" src="https://github.com/user-attachments/assets/83e9d54b-df93-4359-92cc-5ba8f2eccb89" />
+
